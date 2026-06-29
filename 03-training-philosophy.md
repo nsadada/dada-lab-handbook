@@ -5,17 +5,17 @@ parent: Training and lab culture
 nav_order: 1
 ---
 
-# Philosophy: Scaffolding, not handholding or hands-Off
+# **Philosophy:** Scaffolding, not handholding or hands-off
 Training in the Dada Lab is designed to foster critical thinking, ownership of work, sound scientific judgment, and increasing independence. These are central goals of scientific training.
 
 Independence does not mean working alone, avoiding questions, or withholding concerns. It means learning to prepare, think critically, make informed decisions, seek input thoughtfully, and take responsibility for one’s work. Through scaffolding I provide trainees with clear research expectations, appropriate structure, resources, feedback, and opportunities for practice so that they can progressively take ownership of their work. This approach sits between the two extremes of handholding and hands-off. It provides the level of guidance needed at a given stage of development while deliberately building the skills, judgment, and confidence required for increasing independence. The level and type of support will evolve as each person gains experience and demonstrates competence. Early in training, this may involve foundational instruction, close guidance, modeling, supervised practice, and frequent feedback. Over time, lab members are expected to take increasing initiative in planning, communicating, troubleshooting, documenting their work, interpreting results, and contributing to the collective success of the lab.
 
 
-# My role
+# **My role**
 My role is to set the scientific direction of the lab, help lab members develop the scientific, technical, and professional skills needed to work with increasing independence. This includes providing guidance and feedback, helping to identify barriers and think through challenges, supporting lab members as they build confidence and take increasing ownership of their work, and ensuring that work remains aligned with the lab’s scientific, training, and programmatic goals.
 
 
-# My approach
+# **My approach**
 My approach is to provide a strong and transparent framework that supports each lab member in meeting the goals of their training period (or time in the lab) and developing toward greater independence. This framework is designed to provide the conditions, clarity, and support needed to make meaningful progress toward training, research, and professional-development goals.
 
 The lab’s training and development structures include:
@@ -32,7 +32,7 @@ These systems are not intended to create unnecessary administrative work or to m
 A central component of this approach is the [lab’s weekly meeting](04-weekly-lab-meeting.md). It provides a regular structure for coordination, accountability, scientific discussion, professional development, and collective problem-solving. Through repeated participation in this process, lab members learn not only how to conduct research, but also how to reason through uncertainty, communicate clearly, contribute constructively to a team, and lead increasingly independent scientific work.
 
 
-# Responsibilities of Trainees
+# **Responsibilities of trainees**
 Trainees are active participants in their own development. Each is expected to:
 - read and synthesize relevant literature
 - prepare thoughtfully for meetings and discussions
@@ -44,7 +44,7 @@ Trainees are active participants in their own development. Each is expected to:
 - contribute to a productive, respectful environment for others
 
 
-# Growth through process, practice, and iteration
+# **Growth through process, practice, and iteration**
 Scientific progress is not linear. Experiments fail, methods require revision, data can be ambiguous, and promising ideas may not hold up. These experiences are not evidence that someone does not belong in science. They are part of how scientists develop.
 The lab uses the idea of failing upward to describe a disciplined response to setbacks: 
 - identify what happened
@@ -54,7 +54,7 @@ Progress should not be measured only by outcomes such as a positive result, acce
 Repeated cycles of planning, conducting experiments, interpreting and presenting results, writing, and revising are how projects mature and how scientists become capable of leading increasingly complex work.
 
 
-# Feedback: Direct, specific, and grounded in care
+# **Feedback:** direct, specific, and grounded in care
 Feedback is an essential part of scientific training. My communication style is direct and analytical, and I aim for feedback to be specific, transparent, and grounded in the reasoning, evidence, and expectations relevant to the work. I aim to provide feedback that is direct enough to be useful while also supporting growth.
 
 Comments may be candid, particularly when a scientific, organizational, communication, or professional practice needs to improve. Feedback is directed toward the work; including reasoning, experimental design, documentation, interpretation, communication, planning, and follow-through; rather than toward a person’s character or worth.
@@ -62,7 +62,7 @@ Comments may be candid, particularly when a scientific, organizational, communic
 Lab members are expected to receive feedback thoughtfully, ask clarifying questions when needed, and make a good-faith effort to incorporate agreed revisions. Lab members are likewise expected to provide peers with feedback that is specific, constructive, and grounded in evidence or clear reasoning.
 
 
-# Scientific training as an interaction
+# **Scientific training as an interaction**
 I view scientific training as an interaction among the trainee, the principal investigator, and the research environment. Scientific growth does not occur through the efforts of a trainee or mentor alone; it develops through the quality of these interactions over time.
 
 Each part of that interaction matters. Trainees must engage actively in their own development. I provide direction, coaching, feedback, and opportunities for growth. My goal is to foster a research environment that is safe, organized, inclusive, intellectually engaging, and structured to support careful work and learning from one another.
