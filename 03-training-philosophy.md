@@ -57,14 +57,6 @@ Progress should not be measured only by outcomes such as a positive result, acce
 Repeated cycles of planning, conducting experiments, interpreting and presenting results, writing, and revising are how projects mature and how scientists become capable of leading increasingly complex work.
 
 
-# **Feedback: direct, specific, and grounded in care**
-Feedback is an essential part of scientific training. My communication style is direct and analytical, and I aim for feedback to be specific, transparent, and grounded in the reasoning, evidence, and expectations relevant to the work. I aim to provide feedback that is direct enough to be useful while also supporting growth.
-
-Comments may be candid, particularly when a scientific, organizational, communication, or professional practice needs to improve. Feedback is directed toward the work; including reasoning, experimental design, documentation, interpretation, communication, planning, and follow-through; rather than toward a person’s character or worth.
-
-Lab members are expected to receive feedback thoughtfully, ask clarifying questions when needed, and make a good-faith effort to incorporate agreed revisions. Lab members are likewise expected to provide peers with feedback that is specific, constructive, and grounded in evidence or clear reasoning.
-
-
 # **Scientific training as an interaction**
 I view scientific training as an interaction among the trainee, the principal investigator, and the research environment. Scientific growth does not occur through the efforts of a trainee or mentor alone; it develops through the quality of these interactions over time.
 
@@ -76,7 +68,14 @@ My aim is not simply to help trainees complete experiments or generate results, 
 # **Actually show up and get things done**
 
 > “Just learn how to get stuff done.”
->
 > —Barack Obama
 
 Scientific training requires more than reading, planning, and discussing research. It also requires regular engagement in the day-to-day work of the lab. Lab members are expected to participate meaningfully in the research environment appropriate to their role and stage of training, including hands-on experimental work, shared lab responsibilities, troubleshooting, data generation and interpretation, and project follow-through. Many of the practical, collaborative, and professional skills of science are developed through direct participation in the lab: observing and practicing techniques, learning from peers, responding to real constraints, contributing to shared systems, and working through problems as they arise.
+
+
+# **Feedback: direct, specific, and grounded in care**
+Feedback is an essential part of scientific training. My communication style is direct and analytical, and I aim for feedback to be specific, transparent, and grounded in the reasoning, evidence, and expectations relevant to the work. I aim to provide feedback that is direct enough to be useful while also supporting growth.
+
+Comments may be candid, particularly when a scientific, organizational, communication, or professional practice needs to improve. Feedback is directed toward the work; including reasoning, experimental design, documentation, interpretation, communication, planning, and follow-through; rather than toward a person’s character or worth.
+
+Lab members are expected to receive feedback thoughtfully, ask clarifying questions when needed, and make a good-faith effort to incorporate agreed revisions. Lab members are likewise expected to provide peers with feedback that is specific, constructive, and grounded in evidence or clear reasoning.
