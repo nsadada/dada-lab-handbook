@@ -19,12 +19,12 @@ My role is to set the scientific direction of the lab, help lab members develop 
 My approach is to provide a strong and transparent framework that supports each lab member in meeting the goals of their training period (or time in the lab) and developing toward greater independence. This framework is designed to provide the conditions, clarity, and support needed to make meaningful progress toward training, research, and professional-development goals.
 
 The lab’s training and development structures include:
-•	a clear training plan with long-, mid-, and short-term goals
-•	foundational onboarding and technical training
-•	a competency-development and tracking system
-•	an Individual Development Plan
-•	a mentoring agreement that clarifies shared expectations 
-•	regular opportunities for feedback, troubleshooting, reflection, and course correction.
+- a clear training plan with long-, mid-, and short-term goals
+- foundational onboarding and technical training
+- a competency-development and tracking system
+- an Individual Development Plan
+- a mentoring agreement that clarifies shared expectations 
+- regular opportunities for feedback, troubleshooting, reflection, and course correction.
 
 These systems are not intended to create unnecessary administrative work or to monitor people for its own sake. They exist to make expectations visible, help trainees recognize and document their own development, identify barriers before they become more consequential, and ensure that training remains purposeful rather than reactive.
 **Trainees are expected to actively participate in this process**. This includes preparing for meetings, communicating progress and barriers early, following through on agreed next steps, maintaining complete records, and seeking input after first engaging thoughtfully with the problem at hand.
