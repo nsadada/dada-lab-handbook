@@ -6,4 +6,4 @@ nav_order: 1
 # Dada Lab Handbook
 
 ## How we work, learn, and do science together
-Draft | Summer 2026
+Last updated: Summer 2026
