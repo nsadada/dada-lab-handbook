@@ -1,3 +1,3 @@
-# Dada Lab Manual
-
-*Site under construction.*
+---
+title: Dada Lab Manual
+---
