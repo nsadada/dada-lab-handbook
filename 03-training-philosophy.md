@@ -46,6 +46,19 @@ Trainees are active participants in their own development. Each is expected to:
 - contribute to a productive, respectful environment for others
 
 
+# **Learning by doing: actually show up and get things done**
+
+> “Just learn how to get stuff done.”  
+> —Barack Obama
+
+I believe that scientific training requires direct engagement with the material realities of research. While reading, planning, and discussion are essential, they do not replace the learning that comes from working with organisms, materials, instruments, data, and experiments themselves.
+
+Much of scientific judgment develops through hands-on experience i.e. learning the feel and limits of a technique, recognizing meaningful variation, noticing when something is not working as expected, responding to practical constraints, and understanding how individual tasks connect to a larger project. These forms of judgment cannot be developed through thinking, observation or discussion alone.
+
+Accordingly, lab members are expected to participate regularly in the shared research environment in ways appropriate to their role and stage of training. While some aspects of research like reading, writing, coding, planning, and analysis may at times be completed independently or outside the lab space, these activities complement rather than replace in-person engagement. Experimental science is learned through direct involvement, including handling materials, practicing techniques, contributing to shared work, troubleshooting, and following projects through.
+
+This approach is consistent with research on embodied and sensorimotor learning, which suggests that physical engagement with scientific phenomena can deepen conceptual understanding and support later reasoning about them [(PMID: 25911125)](https://pubmed.ncbi.nlm.nih.gov/25911125/).
+
 
 # **Growth through process, practice, and iteration**
 Scientific progress is not linear. Experiments fail, methods require revision, data can be ambiguous, and promising ideas may not hold up. These experiences are not evidence that someone does not belong in science. They are part of how scientists develop.
@@ -63,14 +76,6 @@ I view scientific training as an interaction among the trainee, the principal in
 Each part of that interaction matters. Trainees must engage actively in their own development. I provide direction, coaching, feedback, and opportunities for growth. My goal is to foster a research environment that is safe, organized, inclusive, intellectually engaging, and structured to support careful work and learning from one another.
 
 My aim is not simply to help trainees complete experiments or generate results, but to help develop scientists who can think critically, take ownership of their work, communicate clearly, respond constructively to uncertainty and setbacks, and contribute meaningfully to a scientific community.
-
-
-# **Actually show up and get things done**
-
-> “Just learn how to get stuff done.”  
-> —Barack Obama
-
-Scientific training requires more than reading, planning, and discussing research. It also requires regular engagement in the day-to-day work of the lab. Lab members are expected to participate meaningfully in the research environment appropriate to their role and stage of training, including hands-on experimental work, shared lab responsibilities, troubleshooting, data generation and interpretation, and project follow-through. Many of the practical, collaborative, and professional skills of science are developed through direct participation in the lab: observing and practicing techniques, learning from peers, responding to real constraints, contributing to shared systems, and working through problems as they arise.
 
 
 # **Feedback: direct, specific, and grounded in care**
