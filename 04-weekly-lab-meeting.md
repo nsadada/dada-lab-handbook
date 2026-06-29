@@ -8,7 +8,7 @@ nav_order: 2
 The weekly lab meeting is a central part of the Dada Lab’s training and communication structure. We reserve 90-120 minutes each week for the full team to maintain shared awareness of lab activities, discuss progress and barriers, engage deeply with scientific questions, and develop the intellectual and professional skills needed for successful scientific careers.
 This meeting is not simply a venue for updates. It is a recurring space for coordination, accountability, critical thinking, scientific exchange, and professional formation.
 
-# Purpose
+# **Purpose**
 The weekly meeting is intended to:
 - maintain awareness of relevant institutional and lab-level developments
 - coordinate shared work, timelines, resources, and responsibilities
@@ -19,16 +19,16 @@ The weekly meeting is intended to:
 All lab members are expected to prioritize attendance and active participation. Unavoidable conflicts should be communicated in advance whenever possible.
 
 
-# Part I: Lab coordination and roundtable
+# **Part I: Lab coordination and roundtable**
 The first portion of the meeting is dedicated to maintaining shared awareness, orienting the group to current priorities, and supporting timely communication across the lab. It generally includes:<br>
 - **Welcome and brief check-ins.** We begin by coming together as a team and briefly orienting to the week. Check-ins do not require personal disclosure. They help establish presence, identify immediate constraints when relevant, and reinforce that science is carried out by people working within real professional and personal contexts.<br>
 - **High-level updates.** Updates may include relevant institutional, funding, administrative, facility, safety, personnel, or lab-level information. This portion of the meeting helps ensure that members understand the broader environment in which the lab operates and are aware of upcoming deadlines, changes, opportunities, or shared needs.<br>
 - **Agenda, meeting focus, and expectations.** The meeting agenda identifies the planned focus for the scientific or professional-development portion of the session, clarifies preparation expectations, and notes decisions or discussions requiring particular attention.<br>
 - **Roundtable.** Each lab member provides a concise update on their work. The purpose of roundtable is not to present only polished successes. It is to make progress, questions, and emerging barriers visible; support accountability; and allow the team to coordinate effectively. Our roundtable focuses on work-related information that may affect progress, timelines, shared resources, or coordination. When raising a barrier, uncertainty, or concern, lab members should briefly identify:
-- the relevant context or observed issue
-- what they have already tried, reviewed, or considered
-- the likely impact on the work, and
-- the specific decision, input, or next step needed
+    - the relevant context or observed issue
+    - what they have already tried, reviewed, or considered
+    - the likely impact on the work, and
+    - the specific decision, input, or next step needed
 This keeps discussion oriented toward clarification, coordination, and problem-solving. Concerns should be raised early, but matters requiring extended troubleshooting, confidential discussion, or a broader decision should be scheduled for one-on-one meetings rather than brought up to be resolved during the roundtable. 
 
 To preserve time for the full meeting agenda, roundtable updates should ordinarily be brief, generally no more than three to five minutes per person.
@@ -45,7 +45,7 @@ Research rarely proceeds exactly as planned. Questions, unexpected outcomes, mis
 Matters raised during the roundtable that require longer or more focused discussion may be assigned a follow-up action, owner, and timeline. This protects the scientific and professional-development portion of the meeting while ensuring that important issues are not lost.
 
 
-# Part II: Scientific discussion and professional development
+# **Part II: Scientific discussion and professional development**
 The second portion of the meeting is reserved for focused scientific discussion or professional development. Depending on the week, this may take the form of:
 - a journal club based on assigned reading; we take turns choosing. However, Nsa may assign newly published papers or papers that are pertinent to ongoing experiments for broader dicussion
 - a lab-member research presentation
@@ -56,7 +56,7 @@ This portion of the meeting is informed by the Oxford tutorial approach. Lab mem
 
 The goal is not passive exposure to information and not simply sharing opinions. The goal is to practice the disciplined reasoning expected of scientists.
 
-## Our tutorial-style discussion model
+## **Our tutorial-style discussion model**
 Our scientific and professional development discussions are grounded in evidence-based, logically structured reasoning. We work to distinguish between a claim, the evidence offered in support of that claim, and the reasoning used to connect the two. A useful framework for evaluating a paper, scientific idea, project decision, or professional issue includes asking:
 1.	What is the central question or problem?
 2.	What claim, conclusion, or recommendation is being made?
@@ -69,7 +69,7 @@ This framework applies beyond journal articles. It can be used to evaluate exper
 The expectation is that we all engage critically but constructively. We challenge ideas, interpretations, evidence, and reasoning; **we do not attack people**. Disagreement is a normal and productive part of scientific discussion when it is grounded in evidence, logic, and mutual respect.
 
 
-# Professional development themes
+# **Professional development themes**
 Professional development in the Dada Lab is intentional and cumulative. Discussion topics for the second half of the weekly meeting may be organized around annual strategic goals for the lab and its members. For example, some themes we have discussed or are discussing include;
 - professionalism
 - good lab citizenship
@@ -78,7 +78,7 @@ Professional development in the Dada Lab is intentional and cumulative. Discussi
 Other these that we could cover/rotate include scientific reasoning, data stewardship, writing, presentation, career development, or other areas identified as important for the lab’s collective growth.
 
 
-# Participation expectations
+# **Participation expectations**
 The quality of the weekly meeting depends on collective preparation and engagement. Lab members are expected to:
 - complete assigned reading or preparation before the meeting
 - arrive ready to contribute substantively to discussion
