@@ -8,4 +8,4 @@ Internal working draft for discussion, revision, and future publication.
 
 ## Current status
 
-This handbook is under development. Please raise suggested additions or revisions during lab discussion.
+This handbook is under development. Please raise suggested additions or revisions directly with me via slack or during lab discussion.
