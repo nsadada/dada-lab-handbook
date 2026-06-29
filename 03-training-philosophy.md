@@ -5,7 +5,7 @@ parent: Training and lab culture
 nav_order: 1
 ---
 
-# **Philosophy:** Scaffolding, not handholding or hands-off
+# **Philosophy: scaffolding, not handholding or hands-off**
 Training in the Dada Lab is designed to foster critical thinking, ownership of work, sound scientific judgment, and increasing independence. These are central goals of scientific training.
 
 Independence does not mean working alone, avoiding questions, or withholding concerns. It means learning to prepare, think critically, make informed decisions, seek input thoughtfully, and take responsibility for one’s work. Through scaffolding I provide trainees with clear research expectations, appropriate structure, resources, feedback, and opportunities for practice so that they can progressively take ownership of their work. This approach sits between the two extremes of handholding and hands-off. It provides the level of guidance needed at a given stage of development while deliberately building the skills, judgment, and confidence required for increasing independence. The level and type of support will evolve as each person gains experience and demonstrates competence. Early in training, this may involve foundational instruction, close guidance, modeling, supervised practice, and frequent feedback. Over time, lab members are expected to take increasing initiative in planning, communicating, troubleshooting, documenting their work, interpreting results, and contributing to the collective success of the lab.
@@ -54,7 +54,7 @@ Progress should not be measured only by outcomes such as a positive result, acce
 Repeated cycles of planning, conducting experiments, interpreting and presenting results, writing, and revising are how projects mature and how scientists become capable of leading increasingly complex work.
 
 
-# **Feedback:** direct, specific, and grounded in care
+# **Feedback: direct, specific, and grounded in care**
 Feedback is an essential part of scientific training. My communication style is direct and analytical, and I aim for feedback to be specific, transparent, and grounded in the reasoning, evidence, and expectations relevant to the work. I aim to provide feedback that is direct enough to be useful while also supporting growth.
 
 Comments may be candid, particularly when a scientific, organizational, communication, or professional practice needs to improve. Feedback is directed toward the work; including reasoning, experimental design, documentation, interpretation, communication, planning, and follow-through; rather than toward a person’s character or worth.
