@@ -1,6 +1,8 @@
 ---
-title: Purpose and Scope
-nav_order: 2
+title: Purpose and scope
+layout: default
+parent: Orientation
+nav_order: 1
 ---
 
 # Purpose and scope
