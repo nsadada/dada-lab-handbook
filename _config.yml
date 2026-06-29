@@ -1,0 +1,14 @@
+title: Dada Lab Handbook 
+description: How we work, learn, and build science together.
+
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
+
+search_enabled: true
+heading_anchors: true
+
+aux_links:
+  "Dada Lab":
+    - "https://www.nsadada.com/"
