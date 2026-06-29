@@ -32,6 +32,36 @@ These systems are not intended to create unnecessary administrative work or to m
 A central component of this approach is the [lab’s weekly meeting](04-weekly-lab-meeting.md). It provides a regular structure for coordination, accountability, scientific discussion, professional development, and collective problem-solving. Through repeated participation in this process, lab members learn not only how to conduct research, but also how to reason through uncertainty, communicate clearly, contribute constructively to a team, and lead increasingly independent scientific work.
 
 
+# Responsibilities of Trainees
+Trainees are active participants in their own development. Each is expected to:
+- read and synthesize relevant literature
+- prepare thoughtfully for meetings and discussions
+- take ownership of their projects and responsibilities
+- manage time and communicate priorities, barriers, and changing circumstances early
+- maintain complete and usable records of their work
+- ask questions and seek input after engaging seriously with the problem
+- use feedback to improve their work and professional practice
+- contribute to a productive, respectful environment for others
+
+
+# Growth through process, practice, and iteration
+Scientific progress is not linear. Experiments fail, methods require revision, data can be ambiguous, and promising ideas may not hold up. These experiences are not evidence that someone does not belong in science. They are part of how scientists develop.
+The lab uses the idea of failing upward to describe a disciplined response to setbacks: 
+- identify what happened
+- distinguish what is within your control from what is not
+- document the problem, seek appropriate input, revise the plan, and move forward with stronger understanding
+Progress should not be measured only by outcomes such as a positive result, accepted paper, funded proposal, or completed experiment. We also value the quality of planning, rigor of execution, willingness to revise an interpretation, clarity of communication, persistence through difficulty, growth in judgment, and contribution to others’ work.
+Repeated cycles of planning, conducting experiments, interpreting and presenting results, writing, and revising are how projects mature and how scientists become capable of leading increasingly complex work.
+
+
+# Feedback: Direct, specific, and grounded in care
+Feedback is an essential part of scientific training. My communication style is direct and analytical, and I aim for feedback to be specific, transparent, and grounded in the reasoning, evidence, and expectations relevant to the work. I aim to provide feedback that is direct enough to be useful while also supporting growth.
+
+Comments may be candid, particularly when a scientific, organizational, communication, or professional practice needs to improve. Feedback is directed toward the work; including reasoning, experimental design, documentation, interpretation, communication, planning, and follow-through; rather than toward a person’s character or worth.
+
+Lab members are expected to receive feedback thoughtfully, ask clarifying questions when needed, and make a good-faith effort to incorporate agreed revisions. Lab members are likewise expected to provide peers with feedback that is specific, constructive, and grounded in evidence or clear reasoning.
+
+
 # Scientific training as an interaction
 I view scientific training as an interaction among the trainee, the principal investigator, and the research environment. Scientific growth does not occur through the efforts of a trainee or mentor alone; it develops through the quality of these interactions over time.
 
