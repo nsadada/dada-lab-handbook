@@ -1,6 +1,7 @@
 ---
 title: Dada Lab Handbook
 layout: default
+nav_order: 1
 ---
 # Dada Lab Handbook
 
