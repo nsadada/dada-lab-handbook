@@ -15,7 +15,7 @@ Independence does not mean working alone, avoiding questions, or withholding con
 My role is to set the scientific direction of the lab, help lab members develop the scientific, technical, and professional skills needed to work with increasing independence. This includes providing guidance and feedback, helping to identify barriers and think through challenges, supporting lab members as they build confidence and take increasing ownership of their work, and ensuring that work remains aligned with the lab’s scientific, training, and programmatic goals.
 
 
-# Approach
+# My approach
 My approach is to provide a strong and transparent framework that supports each lab member in meeting the goals of their training period (or time in the lab) and developing toward greater independence. This framework is designed to provide the conditions, clarity, and support needed to make meaningful progress toward training, research, and professional-development goals.
 
 The lab’s training and development structures include:
