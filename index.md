@@ -4,4 +4,4 @@ layout: default
 ---
 # Dada Lab Handbook
 
-## How We Work, Learn, and Build Science Together
+## How we work, learn, and do science together
