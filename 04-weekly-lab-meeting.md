@@ -8,7 +8,7 @@ nav_order: 2
 The weekly lab meeting is a central part of the Dada Lab’s training and communication structure. We reserve 90-120 minutes each week for the full team to maintain shared awareness of lab activities, discuss progress and barriers, engage deeply with scientific questions, and develop the intellectual and professional skills needed for successful scientific careers.
 This meeting is not simply a venue for updates. It is a recurring space for coordination, accountability, critical thinking, scientific exchange, and professional formation.
 
-# **Purpose**
+# **Purpose of our weekly lab meetings**
 The weekly meeting is intended to:
 - maintain awareness of relevant institutional and lab-level developments
 - coordinate shared work, timelines, resources, and responsibilities
