@@ -60,7 +60,7 @@ Accordingly, lab members are expected to participate regularly in the shared res
 This approach is consistent with research on embodied and sensorimotor learning, which suggests that physical engagement with scientific phenomena can deepen conceptual understanding and support later reasoning about them [(PMID: 25911125)](https://pubmed.ncbi.nlm.nih.gov/25911125/).
 
 <img src="{{ '/assets/images/fun/how-much-you-learn.jpeg' | relative_url }}"
-     alt="Visualization of how the brain transforms from either theory, practice, or mistake, with mistakes having the most transformation"
+     alt="Visualization of brain transformation due to either theory, practice, or mistakes, with mistakes resulting in the most transformation"
      style="width: 60%; display: block; margin: 1.25rem auto;">
 
 # **Growth through process, practice, and iteration**
