@@ -59,6 +59,9 @@ Accordingly, lab members are expected to participate regularly in the shared res
 
 This approach is consistent with research on embodied and sensorimotor learning, which suggests that physical engagement with scientific phenomena can deepen conceptual understanding and support later reasoning about them [(PMID: 25911125)](https://pubmed.ncbi.nlm.nih.gov/25911125/).
 
+<img src="{{ '/assets/images/fun/how-much-you-learn.jpeg' | relative_url }}"
+     alt="Visualization of how the brain transforms from either theory, practice, or mistake, with mistakes having the most transformation"
+     style="width: 60%; display: block; margin: 1.25rem auto;">
 
 # **Growth through process, practice, and iteration**
 Scientific progress is not linear. Experiments fail, methods require revision, data can be ambiguous, and promising ideas may not hold up. These experiences are not evidence that someone does not belong in science. They are part of how scientists develop.
